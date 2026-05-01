@@ -11,7 +11,7 @@ The aim is to extract meaningful movement features such as tapping frequency, am
 - YOLOv8 (Ultralytics)
 - MediaPipe Hands
 - OpenCV
-- Roboflow
+  
 
 ## Methodology
 - Video frame extraction from clinical recordings
